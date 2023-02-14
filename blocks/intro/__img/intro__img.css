@@ -1,0 +1,29 @@
+.intro__img{
+  width: 150px;
+  aspect-ratio: 150/65;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px){
+  .intro__img{
+    width: 120px;
+  }
+}
+
+@media screen and (max-width: 600px){
+  .intro__img{
+    width: 75px;
+  }
+}
+
+@media screen and (max-width: 425px){
+  .intro__img{
+    width: 55px;
+  }
+}

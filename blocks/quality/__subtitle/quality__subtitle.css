@@ -1,0 +1,13 @@
+.quality__subtitle{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 30px 0 0;
+  text-align: center;
+}
+
+@media screen and (max-width: 425px){
+  .quality__subtitle{
+    font-size: 12px;
+  }
+}

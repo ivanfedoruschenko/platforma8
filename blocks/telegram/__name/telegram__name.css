@@ -1,0 +1,20 @@
+.telegram__name{
+  margin: 0;
+  font-family: inherit;
+  text-transform: uppercase;
+  font-size: 14px;
+  align-items: center;
+}
+
+@media screen and (max-width: 1000px){
+  .telegram__name{
+    font-size: 12px;
+  }
+}
+
+
+@media screen and (max-width: 810px){
+  .telegram__name{
+    font-size: 10px;
+  }
+}

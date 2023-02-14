@@ -1,0 +1,17 @@
+.services__background{
+  background-image: url("../../../images/services__background.jpg");
+  width: 49%;
+  height: 100%;
+  max-height: 1100px;
+  aspect-ratio: 10/20;
+  background-size: cover;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+  box-shadow: 5px 0 10px rgba(0,0,0,0.5);
+}
+
+@media screen and (max-width: 810px) {
+  .services__background{
+    display: none;
+  }
+}

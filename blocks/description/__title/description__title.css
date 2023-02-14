@@ -1,0 +1,28 @@
+.description__title{
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 1.15;
+  color: white;
+  z-index: 2;
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 800px) {
+  .description__title{
+    font-size: 70px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .description__title{
+    font-size: 50px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .description__title{
+    font-size: 30px;
+  }
+}

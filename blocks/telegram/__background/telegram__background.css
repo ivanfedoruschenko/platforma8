@@ -1,0 +1,17 @@
+.telegram__background{
+  background-image: url("../../../images/telegram__background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  aspect-ratio: 400/440;
+  margin: 0;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  box-shadow: -5px 0 10px rgba(0,0,0,0.5);
+}
+
+@media screen and (max-width: 550px){
+  .telegram__background{
+    display: none;
+  }
+}

@@ -1,0 +1,13 @@
+.quality__img{
+  width: 80px;
+  aspect-ratio: 80/60;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 15px 0 0;
+}
+
+@media screen and (max-width: 425px){
+  .quality__img{
+    width: 60px;
+  }
+}

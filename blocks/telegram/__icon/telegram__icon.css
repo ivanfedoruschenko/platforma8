@@ -1,0 +1,11 @@
+.telegram__icon{
+  width: 20px;
+  aspect-ratio: 1/1;
+  margin: 0 5px 0 0;
+}
+
+@media screen and (max-width: 1000px){
+  .telegram__icon{
+    width: 15px;
+  }
+}

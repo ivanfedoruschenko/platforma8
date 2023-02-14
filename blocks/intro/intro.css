@@ -1,0 +1,10 @@
+.intro{
+  display: flex;
+  max-width: 1280px;
+  width: 98%;
+  flex-direction: column;
+  margin: 0 auto;
+  min-width: 288px;
+  position: relative;
+  box-sizing: border-box;
+}

@@ -1,0 +1,14 @@
+.telegram{
+  display: flex;
+  max-width: 1280px;
+  width: 90%;
+  justify-content: center;
+  margin: 30px auto;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 550px){
+  .telegram{
+    flex-direction: column;
+  }
+}

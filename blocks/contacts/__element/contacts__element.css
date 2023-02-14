@@ -1,0 +1,14 @@
+.contacts__element{
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+@media screen and (max-width: 980px) {
+  .contacts__element{
+    font-size: 18px;
+  }
+}

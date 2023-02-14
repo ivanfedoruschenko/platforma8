@@ -1,0 +1,21 @@
+.header__info{
+  margin: 0;
+  grid-area: info;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+@media screen and (max-width: 768px){
+  .header__info{
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
+
+@media screen and (max-width: 620px){
+  .header__info{
+    font-size: 10px;
+    line-height: 12px;
+  }
+}

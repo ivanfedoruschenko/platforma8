@@ -1,0 +1,17 @@
+.services__two-list{
+  display: flex;
+  flex-direction: column;
+  width: 49%;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  box-shadow: -5px 0 10px rgba(0,0,0,0.5);
+  position: relative;
+}
+
+@media screen and (max-width: 810px) {
+  .services__two-list{
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  }
+}

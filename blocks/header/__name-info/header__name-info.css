@@ -1,0 +1,22 @@
+.header__name-info{
+  margin: 0;
+  display: grid;
+  grid-template-areas:
+    "logo title"
+    "logo info";
+  grid-template-columns: repeat(auto-fit,1fr);
+  grid-template-rows: repeat(auto-fit,minmax(min-content,max-content));
+  column-gap: 20px;
+}
+
+@media screen and (max-width: 620px){
+  .header__name-info{
+    column-gap: 10px;
+  }
+}
+
+@media screen and (max-width: 425px){
+  .header__name-info{
+    column-gap: 5px;
+  }
+}
