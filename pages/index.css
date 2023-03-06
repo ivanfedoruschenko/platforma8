@@ -50,11 +50,14 @@
 @import url("../blocks/contacts/__documents/contacts__documents.css");
 @import url("../blocks/contacts/__list/contacts__list.css");
 @import url("../blocks/contacts/__element/contacts__element.css");
+@import url("../blocks/contacts/__element/_type_center/contacts__element_type_center.css");
 @import url("../blocks/contacts/__icon/contacts__icon.css");
 @import url("../blocks/contacts/__title/contacts__title.css");
 @import url("../blocks/contacts/__link/contacts__link.css");
 @import url("../blocks/contacts/__document-icon/contacts__document-icon.css");
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__title/footer__title.css");
+@import url("../blocks/animation/animation.css");
+
 
 
