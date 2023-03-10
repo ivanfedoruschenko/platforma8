@@ -1,3 +1,9 @@
 .services__title_margin_top{
-  margin-top: 50px;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 810px){
+  .services__title_margin_top{
+    margin-top: 50px;
+  }
 }

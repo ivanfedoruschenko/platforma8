@@ -9,15 +9,10 @@
 
 @media screen and (max-width: 1000px){
   .telegram__text{
-    font-size: 26px;
-  }
-}
-
-@media screen and (max-width: 810px){
-  .telegram__text{
     font-size: 20px;
   }
 }
+
 
 @media screen and (max-width: 660px){
   .telegram__text{
