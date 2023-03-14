@@ -7,21 +7,26 @@
   z-index: 2;
 }
 
-@media screen and (max-width: 915px){
+@media screen and (max-width: 950px){
   .services__title{
-    margin-top: 15px;
+    color: #ffffff;
+    font-size: 30px;
+  }
+
+  .services__title:last-of-type{
+    margin-top: 50px;
   }
 }
 
-@media screen and (max-width: 810px){
-  .services__title{
-    color: #ffffff;
+@media screen and (max-width: 950px) {
+  .services__title {
+    font-size: 26px;
   }
 }
 
 @media screen and (max-width: 500px){
   .services__title{
-    font-size: 18px;
+    font-size: 22px;
     margin-top: 10px;
   }
 }

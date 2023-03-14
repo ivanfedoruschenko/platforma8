@@ -9,6 +9,9 @@
 @import url("../blocks/header/__contacts/header__contacts.css");
 @import url("../blocks/header/__contact/header__contact.css");
 @import url("../blocks/main/main.css");
+@import url("../blocks/main/__scroll-button/main__scroll-button.css");
+@import url("../blocks/main/__scroll-container/main__scroll-container.css");
+@import url("../blocks/main/__scroll-container/_hide/main__scroll-container_hide.css");
 @import url("../blocks/description/description.css");
 @import url("../blocks/description/__background/description__background.css");
 @import url("../blocks/description/__title/description__title.css");

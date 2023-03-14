@@ -1,15 +1,16 @@
 .services__two-list{
   display: flex;
   flex-direction: column;
-  width: 49%;
+  width: 100%;
   border-top-left-radius: 50px;
   border-bottom-left-radius: 50px;
   box-shadow: -5px 0 10px rgba(0,0,0,0.5);
   position: relative;
-  padding: 20px;
+  padding: 20px 0;
+  box-sizing: border-box;
 }
 
-@media screen and (max-width: 810px) {
+@media screen and (max-width: 950px) {
   .services__two-list{
     border-bottom-right-radius: 50px;
     border-top-right-radius: 50px;
