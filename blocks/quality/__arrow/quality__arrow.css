@@ -1,0 +1,20 @@
+.quality__arrow{
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 50%;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.quality__arrow:hover{
+  opacity: 1;
+  transform: scale(1.15);
+  transition: opacity,transform 0.2s linear;
+}
+
+.quality__arrow:active{
+  transform: scale(1.35);
+}

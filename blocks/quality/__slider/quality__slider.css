@@ -1,0 +1,17 @@
+.quality__slider{
+  max-width: 415px;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  margin: 0;
+  box-sizing: border-box;
+  opacity: 1;
+  border-radius: 50px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+@media screen and (max-width: 425px){
+  .quality__slider{
+    min-height: 300px;
+  }
+}

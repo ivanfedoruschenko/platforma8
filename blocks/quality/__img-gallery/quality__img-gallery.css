@@ -1,0 +1,20 @@
+.quality__img-gallery{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  max-width: 415px;
+  min-height: 385px;
+  aspect-ratio: 415/385;
+  display: flex;
+  object-fit: cover;
+  box-sizing: border-box;
+  border-radius: 50px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+@media screen and (max-width: 425px){
+  .quality__img-gallery{
+    min-height: 300px;
+  }
+}

@@ -1,6 +1,7 @@
 .header__contacts{
   margin: 0;
   display: flex;
+  justify-self: flex-end;
   flex-direction: column;
   list-style: none;
   padding: 0;

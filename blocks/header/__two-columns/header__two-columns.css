@@ -1,0 +1,4 @@
+.header__two-columns{
+  display: flex;
+  gap: 20px;
+}

@@ -1,18 +1,18 @@
 .header__logo{
   margin: 0;
-  width: 60px;
-  aspect-ratio: 60/80;
+  width: 90px;
+  aspect-ratio: 60/70;
   grid-area: logo;
 }
 
 @media screen and (max-width: 768px){
   .header__logo{
-    width: 40px;
+    width: 60px;
   }
 }
 
 @media screen and (max-width: 620px){
   .header__logo{
-    width: 30px;
+    width: 50px;
   }
 }

@@ -4,7 +4,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
-    aspect-ratio: 600/800;
+    aspect-ratio: 600/700;
   }
   .services__two-list_background::after{
     content: '';

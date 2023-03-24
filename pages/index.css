@@ -2,6 +2,7 @@
 @import url("../vendor/fonts.css");
 @import url("../blocks/body/body.css");
 @import url("../blocks/header/header.css");
+@import url("../blocks/header/__two-columns/header__two-columns.css");
 @import url("../blocks/header/__name-info/header__name-info.css");
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/header/__title/header__title.css");
@@ -28,6 +29,11 @@
 @import url("../blocks/quality/quality.css");
 @import url("../blocks/quality/__container/quality__container.css");
 @import url("../blocks/quality/__img/quality__img.css");
+@import url("../blocks/quality/__slider/quality__slider.css");
+@import url("../blocks/quality/__img-gallery/quality__img-gallery.css");
+@import url("../blocks/quality/__arrow/quality__arrow.css");
+@import url("../blocks/quality/__arrow/_img/quality__arrow_img_left.css");
+@import url("../blocks/quality/__arrow/_img/quality__arrow_img_right.css");
 @import url("../blocks/quality/__title/quality__title.css");
 @import url("../blocks/quality/__subtitle/quality__subtitle.css");
 @import url("../blocks/quality/__img/_background/quality__img_background_wave.css");
