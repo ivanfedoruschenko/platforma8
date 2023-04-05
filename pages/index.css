@@ -40,13 +40,12 @@
 @import url("../blocks/quality/__img/_background/quality__img_background_fish.css");
 @import url("../blocks/quality/__img/_background/quality__img_background_friend.css");
 @import url("../blocks/services/services.css");
-@import url("../blocks/services/__two-list/services__two-list.css");
+@import url("../blocks/services/__list-elements/services__list-elements.css");
 @import url("../blocks/services/__title/services__title.css");
 @import url("../blocks/services/__title/_margin_top/services__title_margin_top.css");
 @import url("../blocks/services/__list/services__list.css");
 @import url("../blocks/services/__element/services__element.css");
-@import url("../blocks/services/__two-list/_background/services__two-list_background.css");
-@import url("../blocks/services/__background/services__background.css");
+@import url("../blocks/services/__list-background/services__list-background.css");
 @import url("../blocks/telegram/telegram.css");
 @import url("../blocks/telegram/__background/telegram__background.css");
 @import url("../blocks/telegram/__container/telegram__container.css");

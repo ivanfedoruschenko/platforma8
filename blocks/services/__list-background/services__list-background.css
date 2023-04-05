@@ -1,0 +1,7 @@
+.services__list-background{
+    background-image: url("../../../images/sss.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1280/720;
+  }
