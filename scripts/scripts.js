@@ -20,14 +20,14 @@ window.onscroll = () => {
 
 let i = 0
 
-sliderImg.src = "/images/gallery/" + galleryImg[i]
+sliderImg.src = "../images/gallery/" + galleryImg[i]
 
 arrowRight.addEventListener('click', function() {
   i++;
   if (i === galleryImg.length) {
     i = 0;
   }
-  sliderImg.src = "/images/gallery/" + galleryImg[i]
+  sliderImg.src = "../images/gallery/" + galleryImg[i]
 });
 
 arrowLeft.addEventListener('click', function() {
@@ -35,7 +35,7 @@ arrowLeft.addEventListener('click', function() {
   if (i === -1) {
     i = galleryImg.length - 1;
   }
-  sliderImg.src = "/images/gallery/" + galleryImg[i]
+  sliderImg.src = "../images/gallery/" + galleryImg[i]
 });
 
 buttonScroll.addEventListener("click", scrollTop)
