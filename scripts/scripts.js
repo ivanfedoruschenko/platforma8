@@ -3,7 +3,7 @@ const slider = document.querySelector(".quality__slider")
 const sliderImg = slider.querySelector(".quality__img-gallery")
 const arrowLeft = document.querySelector(".quality__arrow_img_left")
 const arrowRight = document.querySelector(".quality__arrow_img_right")
-const galleryImg = ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"]
+const galleryImg = ["gallery-1.jpg", "gallery-2.jpg", "gallery-3.jpg", "gallery-4.jpg", "gallery-5.jpg", "gallery-6.jpg", "gallery-7.jpg"]
 
 const scrollTop = () => {
   window.scrollTo(0,0)
