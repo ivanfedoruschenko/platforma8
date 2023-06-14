@@ -5,7 +5,6 @@
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-708090?style=for-the-badge&logo=javascript)
-![json](https://img.shields.io/badge/json-708090?style=for-the-badge&logo=json)
 ![css](https://img.shields.io/badge/css-708090?style=for-the-badge&logo=css3)
 ![html](https://img.shields.io/badge/html-708090?style=for-the-badge&logo=html5)
 ![bem](https://img.shields.io/badge/bem-708090?style=for-the-badge&logo=bem)
